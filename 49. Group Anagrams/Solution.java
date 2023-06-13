@@ -45,7 +45,7 @@ class Solution {
         System.out.println(groupAnagrams(strs));
 
         // try {
-        //     String[] strs = readTheFile("4) Group Anagrams\\test_case.txt");
+        //     String[] strs = readTheFile("49. Group Anagrams\test_case.txt");
         //     long start = System.currentTimeMillis();
         //     System.out.println(groupAnagrams(strs));
         //     long time = System.currentTimeMillis() - start;
