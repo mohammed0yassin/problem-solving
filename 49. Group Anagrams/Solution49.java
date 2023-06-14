@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 
 
-class Solution {
+class Solution49 {
     public static String[] readTheFile(String string) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(string));
         StringBuilder stringBuilder = new StringBuilder();

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class Solution226 {
     private static ArrayList<Integer> invertedTree = new ArrayList<>();
     public static TreeNode invertTree(TreeNode root) {
         if (root == null) return root;

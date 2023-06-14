@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-class Solution {
+class Solution347 {
     public static int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<Integer,Integer>();
         

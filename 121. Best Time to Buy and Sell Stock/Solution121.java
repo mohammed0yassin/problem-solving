@@ -1,4 +1,4 @@
-class Solution {
+class Solution121 {
     public static int maxProfit(int[] prices) {
         int profit = 0;
         int buyPointer = 0;
